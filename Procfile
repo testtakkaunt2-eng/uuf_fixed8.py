@@ -1,1 +1,1 @@
-web: gunicorn uuf_fixed8:app --worker-class aiohttp.GunicornWebWorker --workers 1 --bind 0.0.0.0:$PORT --timeout 120
+web: python3 apex_sniper_v25.py

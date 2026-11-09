@@ -1,9 +1,1 @@
-aiohttp
-aiosqlite
-cryptography
-ccxt
-gunicorn
-MetaTrader5; sys_platform == 'win32'
-python-dotenv
-matplotlib
-pandas
+# Python 3 standard library used (zero pip dependencies needed)
